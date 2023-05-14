@@ -29,7 +29,7 @@ while a == 1:
 			
 		i += 1
 		if i == 10:
-			os.system('clear')
+			os.system('clear') # dla Windows - os.system('cls')
 			
 	def KeyEnc(msg, key):
 
